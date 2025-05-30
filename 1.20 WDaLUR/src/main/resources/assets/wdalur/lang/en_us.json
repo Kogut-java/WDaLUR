@@ -1,0 +1,17 @@
+{
+  "itemGroup.WDaLUR_tab": "We Do a Little Uranium Refining",
+  "item.wdalur.example_item": "Test Item",
+  "item.wdalur.fuel_rod_test": "Yummy Fuel Rod",
+  "block.wdalur.example_block": "Kilka gierek",
+  "item.wdalur.gierkonium_sword": "Gierkonium Sword",
+  "item.wdalur.gierkonium_pickaxe": "Gierkonium Pickaxe",
+  "item.wdalur.gierkonium_shovel": "Gierkonium Shovel",
+  "item.wdalur.gierkonium_axe": "Gierkonium Axe",
+  "item.wdalur.gierkonium_hoe": "Gierkonium Hoe",
+  "item.wdalur.gierkonium_helmet": "Gierkonium Helmet",
+  "item.wdalur.gierkonium_chestplate": "Gierkonium Chestplate",
+  "item.wdalur.gierkonium_leggings": "Gierkonium Leggings",
+  "item.wdalur.gierkonium_boots": "Gierkonium Boots",
+  "entity.wdalur.juri": "Juri",
+  "item.wdalur.juri_spawn_egg": "Spawn Juri"
+}
